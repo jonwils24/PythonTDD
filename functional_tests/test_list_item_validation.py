@@ -18,4 +18,3 @@ class ItemValidationTest(FunctionalTest):
 
         # And she can correct it by filling some text in
         self.fail('write me')
-
